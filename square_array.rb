@@ -8,5 +8,5 @@ def square_array(numbers)
   n**2
   
 end
-
+new_numbers
 end
