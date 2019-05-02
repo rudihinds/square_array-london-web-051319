@@ -5,6 +5,6 @@
 def square_array(numbers)
   
   numbers.each do |n|
-  n*n
+  puts n*n
 end
 end
