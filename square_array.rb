@@ -3,7 +3,7 @@
 # square_array(numbers)
 
 def square_array(numbers)
-  
+  new_numbers = []
   new_numbers = numbers.collect do |n|
   puts n*n
 end
