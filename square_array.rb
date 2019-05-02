@@ -5,3 +5,4 @@ def square_array(numbers)
   numbers << my_value
   numbers
 end
+end
