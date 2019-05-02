@@ -6,6 +6,7 @@ def square_array(numbers)
   new_numbers = []
   new_numbers << numbers.each do |n|
   n*n
+  return new_numbers
 end
 
 end
