@@ -5,7 +5,7 @@
 def square_array(numbers)
   new_numbers = []
   new_numbers << numbers.each do |n|
-  n*n
+  n**2
   
 end
 
